@@ -6,7 +6,7 @@ Website for my RuneScape Clan (2008)
 
 **Context:**
 
-During one summer, at the age of 14, I had the opportunity to learn basic programming thanks to my uncle Eduardo Astudillo. At that time, he ran a software development company (www.a2m.cl) and used to take me to the office. Using Adobe Dreamweaver, he introduced me to HTML and CSS.
+During one summer, at the age of 14, I had the opportunity to learn basic programming and graphics design thanks to my uncle Eduardo Astudillo. At that time, he ran a software development company (www.a2m.cl) and used to take me to the office. Using Adobe Dreamweaver, he introduced me to HTML and CSS.
 <br>
 
 <p>
