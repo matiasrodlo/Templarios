@@ -10,7 +10,7 @@ During one summer, at the age of 14, I had the opportunity to learn basic progra
 <br>
 
 <p>
-  <a href="matiasrodlo.github.io/templarios/">
+  <a href="https://matiasrodlo.github.io/templarios/">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/52969662/281911693-b0d0210f-c34e-4a4f-9007-deea2f0e6397.jpg" alt="runescape">
   </a>
 </p>
